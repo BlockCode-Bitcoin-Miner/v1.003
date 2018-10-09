@@ -13,8 +13,12 @@ BlockCode Bitcoin Miner has best mining hashrate from the all miners out there t
 Version History compared to other miners:
 
 Version 1.000: 7% higher hashrate
+
 Version 1.001: 12% higher hashrate
+
 Version 1.002: 12.6% higher hashrate
+
 Version 1.003: 18% higher hashrate
+
 
 
