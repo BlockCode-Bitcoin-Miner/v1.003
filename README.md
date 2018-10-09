@@ -4,7 +4,7 @@ How to buy and use BlockCode Bitcoin Miner Premium License:
 
 1. Send 0.2 BTC on 1N4Mx2e8iBqf5MLj93j6LAVvMtYFzk7o3e
 2. Send us email on bcbm@fastmail.com with transaction ID.
--  We will confirm order in 1h or less and get back to you with zipped files and license.
+-  Average response time is 37 min.
 3. Download video tutorials from email and follow instructions.
 
 
